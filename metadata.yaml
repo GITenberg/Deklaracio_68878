@@ -1,0 +1,32 @@
+_repo: Deklaracio_68878
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tojosato, Tooguu
+    gutenberg_agent_id: '54992'
+    url: http://www.gutenberg.org/2009/agents/54992
+creator:
+  author:
+    agent_name: Arishima, Takeo
+    gutenberg_agent_id: '54991'
+    url: http://www.gutenberg.org/2009/agents/54991
+description: ''
+gutenberg_issued: '2022-08-31'
+identifiers:
+  gutenberg: '68878'
+language: eo
+pgterms:marc904: https://dlibra.kul.pl/dlibra/publication/51944/edition/46774
+pgterms:marc905: 20200912231939arishima
+pgterms:marc906: '1924'
+pgterms:marc907: de
+production_note: Andrew Sly, Miroslav Malovec and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (his file was produced from images generously made
+  available by Biblioteka Cyfrowa KUL.)
+publication_note: Germany :Ferdinand Hirt & Sohn,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Deklaracio
+url: http://www.gutenberg.org/ebooks/68878
